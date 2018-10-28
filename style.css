@@ -1,0 +1,113 @@
+
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.bold{
+  font-weight: 700;
+}
+
+.wrapper_menu {
+  width: 100%;
+  height: 105px;
+}
+
+.margin_top_50 {
+  margin-top: 50px;
+}
+
+.text_uppercase {
+  text-transform: uppercase;
+}
+
+.bg_blue {
+  background: #2c3e50;
+}
+
+.bg_green {
+  background: #18bc9c
+}
+
+.color_white {
+  color: white;
+}
+
+.size_h2 {
+  font-size: 50px;
+}
+
+.starlight {
+  margin: 15px auto;
+  font-size: 35px;
+}
+
+.title_page {
+  line-height: 105px;
+  font-size: 30px;
+}
+
+.wrapper_menu a {
+  text-decoration: none;
+  font-size: 15px;
+  line-height: 105px;
+  padding: 0 25px;
+}
+
+.icon {
+  margin: 20px auto;
+  height: 256px;
+}
+
+.back_icon {
+  padding: 20px;
+}
+
+.section1 img {
+  width: 175px;
+}
+
+.wrapper_menu a:hover {
+  color: #18bc9c;
+}
+
+.jumbotron {
+  width: ;
+}
+
+.jumbotron i {
+  margin-bottom: 30px;
+}
+
+.jumbotron h1 {
+  font-size: 75px;
+}
+
+.jumbotron div {
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.bg_cabin {
+  background: #ad5464;
+}
+
+.bg_cake {
+  background: #4da2b3;
+}
+
+.bg_circus {
+  background: black;
+}
+
+.bg_gamepad {
+  background: #3d83bc;
+}
+
+.bg_safe {
+  background: #163cae;
+}
+
+.bg_submarine {
+  background: #c8b3a5;
+}
